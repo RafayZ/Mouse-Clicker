@@ -1,0 +1,1 @@
+This code divides the window into 4 quadrants and upon clicking, the number of times clicked and the keyboard presses are recorded, the counts are displayed in the command line interface (CLI)
